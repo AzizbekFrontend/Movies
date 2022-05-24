@@ -1,0 +1,98 @@
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    margin-top: 20px;
+}
+
+.search-container{
+    display: flex;
+    justify-content: space-between;
+}
+form{
+    margin: 20px;
+    font-size: 30px;
+}
+.select{
+    width: 150px;
+    height: 50px;
+    margin-top: 20px;
+}
+
+.block-raiting img{
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+}
+.block-raiting{
+   align-items: center;
+    display: flex;
+}
+.card-raiting{
+    margin: 0;
+}
+
+
+
+
+
+
+
+
+
+/*header{
+    top: 50px;
+}
+.container{
+    width: 1100px;
+    height: 100vh;
+    text-decoration: none;
+    list-style: none;
+    margin: 0 auto; 
+}
+.content{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+   flex-wrap: wrap;
+}
+.block{
+   
+    margin-top: 20px;
+    background-color: aqua;
+   
+    grid-template-columns: repeat(auto-fill, minmax(264px, 1fr));
+    width: 300px;
+    margin: auto;
+  
+}
+.block .img-block{
+    width: inherit;
+
+}
+.block img{
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    
+}
+.content-block{
+    position: relative;
+    padding: 15px;
+    display: grid;
+    gap: 10px;
+}
+.block p{
+    width: 80%;
+}
+.content-block .icon{
+background-repeat:no-repeat;
+width: 50px;
+height: 50px;
+}
+.content-block .reyting{
+ position: absolute;
+    margin-bottom: 10px;
+} */
